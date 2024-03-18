@@ -1,2 +1,6 @@
 mylogs.log  
 logs/.pycache
+*.log
+*ignore
+ignore/ignore.html
+*ignore
