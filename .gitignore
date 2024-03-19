@@ -4,3 +4,4 @@ logs/.pycache
 *ignore
 ignore/ignore.html
 *ignore
+id_rsa*
